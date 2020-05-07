@@ -1,0 +1,52 @@
+body{
+    max-width:888px; 
+    background-color: black;
+    color: white;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align:center;
+}
+h2 {
+    text-align:center;
+}
+h3 {
+    text-align:center;
+}
+
+/*
+<!-- TO COMMIT AN UPDATED VERSION
+    git add .
+    git commit -m "note"
+    git push
+-->
+*/
+
+/* 
+#line2{
+   display: flex;
+   margin: 22px; 
+   justify-content: space-between;
+}
+#line2 .frame{
+    border: 12px solid white; 
+    border-radius: 20px; 
+    background-color: grey;
+    padding: 0px; 
+    text-align: center;
+}
+#line2 .frame p{
+    text-align: center;
+}
+#line2 .txtframe{
+    border: 12px solid white; 
+    border-radius: 20px; 
+    background-color: grey;
+    padding: 10px; 
+}
+#line3 {
+  display: flex;
+  justify-content: space-between;
+}
+*/
